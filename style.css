@@ -4,8 +4,10 @@
 
 .questionBox {
     background: #332940;
-    width: 200px;
-    height: 150px;
+    width: 300px;
+    height: 250px;
     border-radius: 10px;
     padding: 20px;
+    left: 50%;
+    top: 50%;
 }
