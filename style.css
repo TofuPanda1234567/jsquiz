@@ -1,7 +1,11 @@
+*{
+    background: #121212;
+}
+
 .questionBox {
+    background-color: #332940;
     width: 50%;
     height: 25%;
     margin-left: 25%;
-    border: 2px solid black;
-    border-radius: 90px;
+    border-radius: 10px;
 }
