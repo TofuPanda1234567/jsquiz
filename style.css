@@ -1,5 +1,6 @@
 *{
     background: #121212;
+    font-family: "Times New Roman"
 }
 
 .questionBox {
@@ -10,4 +11,9 @@
     padding: 20px;
     margin-left: 8%;
     margin-top: 2%;
+}
+.questionBox > p {
+    color: white;
+    font-size: 24px;
+    text-align: center;
 }
