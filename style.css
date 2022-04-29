@@ -25,11 +25,13 @@
     background: inherit;
 }
 .answer {
+    position: absolute;
+    left: 30%;
     text-align: center;
-    background: #3700B3;
+    background: #332940;
     color: white;
     font-size: 24px;
     width: 70vw;
     height: 20vh;
-    border-radius: 45%;
+    border-radius: 45% 0% 45% 0%;
 }
