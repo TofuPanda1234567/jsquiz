@@ -27,7 +27,33 @@
 .answers {
     display: inline;
 }
-.answer {
+.answer1 {
+    position: absolute;
+    margin-left: 25%;
+    margin-bottom: 30px;
+    margin-top: 5%;
+    text-align: center;
+    background: #008b8b;
+    color: white;
+    font-size: 36px;
+    width: 50vw;
+    height: 10vh;
+    border-radius: 10px;
+}
+.answer2 {
+    position: absolute;
+    margin-left: 25%;
+    margin-bottom: 30px;
+    margin-top: 5%;
+    text-align: center;
+    background: #008b8b;
+    color: white;
+    font-size: 36px;
+    width: 50vw;
+    height: 10vh;
+    border-radius: 10px;
+}
+.answer3 {
     position: absolute;
     margin-left: 25%;
     margin-bottom: 30px;
