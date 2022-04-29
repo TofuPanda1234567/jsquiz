@@ -26,14 +26,13 @@
 }
 .answer {
     position: absolute;
-    margin-left: 20%;
+    margin-left: 30%;
     margin-top: 5%;
     text-align: center;
-    background: #00ced1;
+    background: #008b8b;
     color: white;
     font-size: 36px;
     width: 50vw;
     height: 10vh;
-    border-top-left-radius: 5%;
-    border-bottom-left-radius: 5%;
+    border-radius: 5%;
 }
