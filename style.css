@@ -12,7 +12,7 @@
     margin-left: 8%;
     margin-top: 2%;
     color: white;
-    font-size: 24px;
+    font-size: 30px;
     text-align: center;
 }
 .questionNumber {
@@ -26,14 +26,14 @@
 }
 .answer {
     position: absolute;
-    margin-left: 12%;
+    margin-left: 20%;
     margin-top: 5%;
     text-align: center;
-    background: #192734;
+    background: #00ced1;
     color: white;
     font-size: 36px;
     width: 50vw;
     height: 10vh;
-    border-top-left-radius: 5px;
-    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5%;
+    border-bottom-left-radius: 5%;
 }
