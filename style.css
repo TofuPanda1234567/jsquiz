@@ -6,7 +6,7 @@
 .questionBox {
     background: #332940;
     width: 80vw;
-    height: 50vh;
+    height: 30vh;
     border-radius: 10px;
     padding: 20px;
     margin-left: 8%;
@@ -20,18 +20,20 @@
 }
 .question {
     color: white;
-    font-size: 60px;
+    font-size: 50px;
     text-align: center;
     background: inherit;
 }
 .answer {
     position: absolute;
-    margin-left: 8%;
+    margin-left: 12%;
+    margin-top: 5%;
     text-align: center;
-    background: #332940;
+    background: #192734;
     color: white;
-    font-size: 24px;
-    width: 70vw;
-    height: 20vh;
-    border-radius: 10% 10% 10% 10%;
+    font-size: 36px;
+    width: 50vw;
+    height: 10vh;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
