@@ -22,7 +22,7 @@ ans1.addEventListener('click', (e) => {
     qNumber.innerHTML = 'Question ' + num;
 
     if(num == 1){
-        score = score++
+        score++
         score.innerHTML = 'Score: ' + score;
     };
 });
