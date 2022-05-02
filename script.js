@@ -164,7 +164,10 @@ ans1.addEventListener('click', (e) => {
 
 // ANSWER TWO
 ans2.addEventListener('click', (e) => {
-    if (num == 2 || num == 3) {
+    if (num == 2) {
+        score++;
+    }
+    if (num == 3){
         score++;
     }
     else {
