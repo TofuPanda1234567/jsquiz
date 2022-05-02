@@ -26,6 +26,7 @@
 }
 .answers {
     display: inline;
+    margin-top: 5%;
 }
 .answer1 {
     position: absolute;
@@ -44,7 +45,7 @@
     position: absolute;
     margin-left: 25%;
     margin-bottom: 30px;
-    margin-top: 5%;
+    margin-top: 10%;
     text-align: center;
     background: #008b8b;
     color: white;
@@ -57,7 +58,7 @@
     position: absolute;
     margin-left: 25%;
     margin-bottom: 30px;
-    margin-top: 5%;
+    margin-top: 15%;
     text-align: center;
     background: #008b8b;
     color: white;
