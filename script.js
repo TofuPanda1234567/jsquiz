@@ -19,10 +19,10 @@ scoreCount.innerHTML = 'Score: ' + score;
 
 // ANSWER ONE
 ans1.addEventListener('click', (e) => {
-    if(num == 1){
+    if (num == 1) {
         score++;
     }
-    else{
+    else {
         score = score;
     }
     scoreCount.innerHTML = 'Score: ' + score;
@@ -36,15 +36,46 @@ ans1.addEventListener('click', (e) => {
     ans2.innerHTML = '3';
     ans3.innerHTML = '7';
     scoreCount.innerHTML = 'Score: ' + score;
+
+    num = 3;
+    // QUESTION THREE OF ANSWER ONE
+
+    ans1.addEventListener('click', (e) => {
+        question.innerHTML = 'Hg is the chemical symbol of which element?';
+        qNumber.innerHTML = 'Question ' + num;
+        ans1.innerHTML = 'Hydrogen';
+        ans2.innerHTML = 'Mercury';
+        ans3.innerHTML = 'Platinum';
+        scoreCount.innerHTML = 'Score: ' + score;
+    });
+
+
+    ans2.addEventListener('click', (e) => {
+        question.innerHTML = 'Hg is the chemical symbol of which element?';
+        qNumber.innerHTML = 'Question ' + num;
+        ans1.innerHTML = 'Hydrogen';
+        ans2.innerHTML = 'Mercury';
+        ans3.innerHTML = 'Platinum';
+        scoreCount.innerHTML = 'Score: ' + score;
+    });
+
+    ans3.addEventListener('click', (e) => {
+        question.innerHTML = 'Hg is the chemical symbol of which element?';
+        qNumber.innerHTML = 'Question ' + num;
+        ans1.innerHTML = 'Hydrogen';
+        ans2.innerHTML = 'Mercury';
+        ans3.innerHTML = 'Platinum';
+        scoreCount.innerHTML = 'Score: ' + score;
+    });
 });
 
 
 // ANSWER TWO
 ans2.addEventListener('click', (e) => {
-    if(num == 2){
+    if (num == 2 || num == 3) {
         score++;
     }
-    else{
+    else {
         score = score;
     }
     scoreCount.innerHTML = 'Score: ' + score;
@@ -58,16 +89,46 @@ ans2.addEventListener('click', (e) => {
     ans2.innerHTML = '3';
     ans3.innerHTML = '7';
     scoreCount.innerHTML = 'Score: ' + score;
+
+    num = 3;
+    // QUESTION THREE OF ANSWER TWO
+    ans1.addEventListener('click', (e) => {
+        question.innerHTML = 'Hg is the chemical symbol of which element?';
+        qNumber.innerHTML = 'Question ' + num;
+        ans1.innerHTML = 'Hydrogen';
+        ans2.innerHTML = 'Mercury';
+        ans3.innerHTML = 'Platinum';
+        scoreCount.innerHTML = 'Score: ' + score;
+    });
+
+
+    ans2.addEventListener('click', (e) => {
+        question.innerHTML = 'Hg is the chemical symbol of which element?';
+        qNumber.innerHTML = 'Question ' + num;
+        ans1.innerHTML = 'Hydrogen';
+        ans2.innerHTML = 'Mercury';
+        ans3.innerHTML = 'Platinum';
+        scoreCount.innerHTML = 'Score: ' + score;
+    });
+
+    ans3.addEventListener('click', (e) => {
+        question.innerHTML = 'Hg is the chemical symbol of which element?';
+        qNumber.innerHTML = 'Question ' + num;
+        ans1.innerHTML = 'Hydrogen';
+        ans2.innerHTML = 'Mercury';
+        ans3.innerHTML = 'Platinum';
+        scoreCount.innerHTML = 'Score: ' + score;
+    });
 });
 
 
 
 // ANSWER THREE
 ans3.addEventListener('click', (e) => {
-    if(num == 4){
+    if (num == 4) {
         score++;
     }
-    else{
+    else {
         score = score;
     }
     scoreCount.innerHTML = 'Score: ' + score;
@@ -82,51 +143,33 @@ ans3.addEventListener('click', (e) => {
     ans3.innerHTML = '7';
     scoreCount.innerHTML = 'Score: ' + score;
 
-    if (num == 2) {
-        ans1.addEventListener('click', (e) => {
-            score = score;
-            scoreCount.innerHTML = 'Score: ' + score;
-
-            num = 3;
-            qNumber.innerHTML = 'Question ' + num;
-
-            question.innerHTML = 'Question 3?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = '1';
-            ans2.innerHTML = '3';
-            ans3.innerHTML = '7';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
+    num = 3;
+    // QUESTION THREE OF ANSWER THREE
+    ans1.addEventListener('click', (e) => {
+        question.innerHTML = 'Hg is the chemical symbol of which element?';
+        qNumber.innerHTML = 'Question ' + num;
+        ans1.innerHTML = 'Hydrogen';
+        ans2.innerHTML = 'Mercury';
+        ans3.innerHTML = 'Platinum';
+        scoreCount.innerHTML = 'Score: ' + score;
+    });
 
 
-        ans2.addEventListener('click', (e) => {
-            score++;
-            scoreCount.innerHTML = 'Score: ' + score;
+    ans2.addEventListener('click', (e) => {
+        question.innerHTML = 'Hg is the chemical symbol of which element?';
+        qNumber.innerHTML = 'Question ' + num;
+        ans1.innerHTML = 'Hydrogen';
+        ans2.innerHTML = 'Mercury';
+        ans3.innerHTML = 'Platinum';
+        scoreCount.innerHTML = 'Score: ' + score;
+    });
 
-            num = 3;
-            qNumber.innerHTML = 'Question ' + num;
-
-            question.innerHTML = 'Question 3?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = '1';
-            ans2.innerHTML = '3';
-            ans3.innerHTML = '7';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
-
-        ans3.addEventListener('click', (e) => {
-            score = score;
-            scoreCount.innerHTML = 'Score: ' + score;
-
-            num = 3;
-            qNumber.innerHTML = 'Question ' + num;
-
-            question.innerHTML = 'Question 3?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = '1';
-            ans2.innerHTML = '3';
-            ans3.innerHTML = '7';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
-    }
+    ans3.addEventListener('click', (e) => {
+        question.innerHTML = 'Hg is the chemical symbol of which element?';
+        qNumber.innerHTML = 'Question ' + num;
+        ans1.innerHTML = 'Hydrogen';
+        ans2.innerHTML = 'Mercury';
+        ans3.innerHTML = 'Platinum';
+        scoreCount.innerHTML = 'Score: ' + score;
+    });
 });
