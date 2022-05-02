@@ -19,10 +19,10 @@ scoreCount.innerHTML = 'Score: ' + score;
 
 // ANSWER ONE
 ans1.addEventListener('click', (e) => {
-    if (num == 1) {
+    if(num == 1){
         score++;
     }
-    else {
+    else{
         score = score;
     }
     scoreCount.innerHTML = 'Score: ' + score;
@@ -53,54 +53,6 @@ ans1.addEventListener('click', (e) => {
         ans2.innerHTML = 'Mercury';
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
-
-        num = 4;
-        // QUESTION FOUR
-        ans1.addEventListener('click', (e) => {
-            if (num == 1) {
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
-    
-    
-        ans2.addEventListener('click', (e) => {
-            if (num == 1) {
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
-    
-        ans3.addEventListener('click', (e) => {
-            if (num == 1) {
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
     });
 
 
@@ -117,55 +69,6 @@ ans1.addEventListener('click', (e) => {
         ans2.innerHTML = 'Mercury';
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
-
-        
-        num = 4;
-        // QUESTION FOUR
-        ans1.addEventListener('click', (e) => {
-            if (num == 1) {
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
-    
-    
-        ans2.addEventListener('click', (e) => {
-            if (num == 1) {
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
-    
-        ans3.addEventListener('click', (e) => {
-            if (num == 1) {
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
     });
 
     ans3.addEventListener('click', (e) => {
@@ -181,65 +84,13 @@ ans1.addEventListener('click', (e) => {
         ans2.innerHTML = 'Mercury';
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
-
-
-        num = 4;
-        // QUESTION FOUR
-        ans1.addEventListener('click', (e) => {
-            if (num == 1) {
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
-    
-    
-        ans2.addEventListener('click', (e) => {
-            if (num == 1) {
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
-    
-        ans3.addEventListener('click', (e) => {
-            if (num == 1) {
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
     });
 });
 
 
 // ANSWER TWO
 ans2.addEventListener('click', (e) => {
-    if (num == 2) {
-        score++;
-    }
-    if (num == 3){
+    if(num == 2){
         score++;
     }
     else {
@@ -260,232 +111,31 @@ ans2.addEventListener('click', (e) => {
     num = 3;
     // QUESTION THREE OF ANSWER TWO
     ans1.addEventListener('click', (e) => {
-        if (num == 2) {
-            score++;
-        }
-        if (num == 3){
-            score++;
-        }
-        else {
-            score = score;
-        }
         question.innerHTML = 'Hg is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
         ans1.innerHTML = 'Hydrogen';
         ans2.innerHTML = 'Mercury';
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
-
-
-        num = 4;
-        // QUESTION FOUR
-        ans1.addEventListener('click', (e) => {
-            if (num == 2) {
-                score++;
-            }
-            if (num == 3){
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
-    
-    
-        ans2.addEventListener('click', (e) => {
-            if (num == 2) {
-                score++;
-            }
-            if (num == 3){
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
-    
-        ans3.addEventListener('click', (e) => {
-            if (num == 2) {
-                score++;
-            }
-            if (num == 3){
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
     });
 
 
     ans2.addEventListener('click', (e) => {
-        if (num == 2) {
-            score++;
-        }
-        if (num == 3){
-            score++;
-        }
-        else {
-            score = score;
-        }
         question.innerHTML = 'Hg is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
         ans1.innerHTML = 'Hydrogen';
         ans2.innerHTML = 'Mercury';
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
-
-
-        num = 4;
-        // QUESTION FOUR
-        ans1.addEventListener('click', (e) => {
-            if (num == 2) {
-                score++;
-            }
-            if (num == 3){
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
-    
-    
-        ans2.addEventListener('click', (e) => {
-            if (num == 2) {
-                score++;
-            }
-            if (num == 3){
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
-    
-        ans3.addEventListener('click', (e) => {
-            if (num == 2) {
-                score++;
-            }
-            if (num == 3){
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
     });
 
     ans3.addEventListener('click', (e) => {
-        if (num == 2) {
-            score++;
-        }
-        if (num == 3){
-            score++;
-        }
-        else {
-            score = score;
-        }
         question.innerHTML = 'Hg is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
         ans1.innerHTML = 'Hydrogen';
         ans2.innerHTML = 'Mercury';
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
-
-
-        num = 4;
-        // QUESTION FOUR
-        ans1.addEventListener('click', (e) => {
-            if (num == 2) {
-                score++;
-            }
-            if (num == 3){
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
-    
-    
-        ans2.addEventListener('click', (e) => {
-            if (num == 2) {
-                score++;
-            }
-            if (num == 3){
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
-    
-        ans3.addEventListener('click', (e) => {
-            if (num == 2) {
-                score++;
-            }
-            if (num == 3){
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
     });
 });
 
@@ -514,76 +164,16 @@ ans3.addEventListener('click', (e) => {
     num = 3;
     // QUESTION THREE OF ANSWER THREE
     ans1.addEventListener('click', (e) => {
-        if (num == 4) {
-            score++;
-        }
-        else {
-            score = score;
-        }
         question.innerHTML = 'Hg is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
         ans1.innerHTML = 'Hydrogen';
         ans2.innerHTML = 'Mercury';
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
-
-
-        // QUESTION FOUR
-        ans1.addEventListener('click', (e) => {
-            if (num == 4) {
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
-    
-    
-        ans2.addEventListener('click', (e) => {
-            if (num == 4) {
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
-    
-        ans3.addEventListener('click', (e) => {
-            if (num == 4) {
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
     });
 
 
     ans2.addEventListener('click', (e) => {
-        if (num == 4) {
-            score++;
-        }
-        else {
-            score = score;
-        }
         question.innerHTML = 'Hg is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
         ans1.innerHTML = 'Hydrogen';
@@ -591,117 +181,14 @@ ans3.addEventListener('click', (e) => {
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
 
-
-        num = 4;
-        // QUESTION FOUR
-        ans1.addEventListener('click', (e) => {
-            if (num == 4) {
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
-    
-    
-        ans2.addEventListener('click', (e) => {
-            if (num == 4) {
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
-    
-        ans3.addEventListener('click', (e) => {
-            if (num == 4) {
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
     });
 
     ans3.addEventListener('click', (e) => {
-        if (num == 4) {
-            score++;
-        }
-        else {
-            score = score;
-        }
         question.innerHTML = 'Hg is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
         ans1.innerHTML = 'Hydrogen';
         ans2.innerHTML = 'Mercury';
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
-
-
-        num = 4;
-        // QUESTION FOUR
-        ans1.addEventListener('click', (e) => {
-            if (num == 4) {
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
-    
-    
-        ans2.addEventListener('click', (e) => {
-            if (num == 4) {
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
-    
-        ans3.addEventListener('click', (e) => {
-            if (num == 4) {
-                score++;
-            }
-            else {
-                score = score;
-            }
-            question.innerHTML = 'What was the first state?';
-            qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'New Jersey';
-            ans2.innerHTML = 'Arkansas';
-            ans3.innerHTML = 'Delaware';
-            scoreCount.innerHTML = 'Score: ' + score;
-        });
     });
 });
