@@ -16,68 +16,72 @@ ans2.innerHTML = 'New York City';
 ans3.innerHTML = 'Manila';
 scoreCount.innerHTML = 'Score: ' + score;
 
-// ANSWER ONE
-ans1.addEventListener('click', (e) => {
-    if(num == 1){
+// QUESTION ONE
+if(num == 1){
+    // ANSWER ONE
+    ans1.addEventListener('click', (e) => {
         score++;
         scoreCount.innerHTML = 'Score: ' + score;
-    };
 
-    num++;
-    qNumber.innerHTML = 'Question ' + num;
-    
-    if(num == 2){
-        question.innerHTML = 'How many hearts does an Octopus have?';
+        num++;
         qNumber.innerHTML = 'Question ' + num;
-        ans1.innerHTML = '1';
-        ans2.innerHTML = '3';
-        ans3.innerHTML = '7';
 
+    });
+
+    // ANSWER TWO
+    ans2.addEventListener('click', (e) => {
         score = score;
         scoreCount.innerHTML = 'Score: ' + score;
-    }
-});
 
-// ANSWER TWO
-ans2.addEventListener('click', (e) => {
-    if(num == 1){
-        score = score;
-        scoreCount.innerHTML = 'Score: ' + score;
-    };
-
-    num++;
-    qNumber.innerHTML = 'Question ' + num;
-
-    if(num == 2){
-        question.innerHTML = 'How many hearts does an Octopus have?';
+        num++;
         qNumber.innerHTML = 'Question ' + num;
-        ans1.innerHTML = '1';
-        ans2.innerHTML = '3';
-        ans3.innerHTML = '7';
+    });
 
-        score++;
-        scoreCount.innerHTML = 'Score: ' + score;
-    }
-});
-
-// ANSWER THREE
-ans3.addEventListener('click', (e) => {
-    if(num == 1){
+    // ANSWER THREE
+    ans3.addEventListener('click', (e) => {
         score = score
         scoreCount.innerHTML = 'Score: ' + score;
-    };
 
-    num++;
-    qNumber.innerHTML = 'Question ' + num;
-
-    if(num == 2){
-        question.innerHTML = 'How many hearts does an Octopus have?';
+        num++;
         qNumber.innerHTML = 'Question ' + num;
-        ans1.innerHTML = '1';
-        ans2.innerHTML = '3';
-        ans3.innerHTML = '7';
+    });
+};
 
+// QUESTION TWO
+if(num == 2){
+
+    question.innerHTML = 'How many hearts does an octopus have?';
+    qNumber.innerHTML = 'Question ' + num;
+    ans1.innerHTML = '1';
+    ans2.innerHTML = '3';
+    ans3.innerHTML = '7';
+    scoreCount.innerHTML = 'Score: ' + score;
+
+    // ANSWER ONE
+    ans1.addEventListener('click', (e) => {
         score = score;
         scoreCount.innerHTML = 'Score: ' + score;
-    }
-});
+
+        num++;
+        qNumber.innerHTML = 'Question ' + num;
+
+    });
+
+    // ANSWER TWO
+    ans2.addEventListener('click', (e) => {
+        score++;
+        scoreCount.innerHTML = 'Score: ' + score;
+
+        num++;
+        qNumber.innerHTML = 'Question ' + num;
+    });
+
+    // ANSWER THREE
+    ans3.addEventListener('click', (e) => {
+        score = score
+        scoreCount.innerHTML = 'Score: ' + score;
+
+        num++;
+        qNumber.innerHTML = 'Question ' + num;
+    });
+};
