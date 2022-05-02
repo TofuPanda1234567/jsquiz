@@ -19,8 +19,8 @@ scoreCount.innerHTML = 'Score: ' + score;
 // ANSWER ONE
 ans1.addEventListener('click', (e) => {
     if(num == 1){
-        score++
-        score.innerHTML = 'Score: ' + score;
+        score++;
+        scoreCount.innerHTML = 'Score: ' + score;
     };
 
     num++;
@@ -31,7 +31,7 @@ ans1.addEventListener('click', (e) => {
 ans2.addEventListener('click', (e) => {
     if(num == 1){
         score = score;
-        score.innerHTML = 'Score: ' + score;
+        scoreCount.innerHTML = 'Score: ' + score;
     };
 
     num++;
@@ -42,7 +42,7 @@ ans2.addEventListener('click', (e) => {
 ans3.addEventListener('click', (e) => {
     if(num == 1){
         score = score
-        score.innerHTML = 'Score: ' + score;
+        scoreCount.innerHTML = 'Score: ' + score;
     };
 
     num++;
