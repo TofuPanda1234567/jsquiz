@@ -19,7 +19,7 @@ scoreCount.innerHTML = 'Score: ' + score;
 
 // ANSWER ONE
 ans1.addEventListener('click', (e) => {
-    if (num == 1) {
+    if (num == 2 || num == 3) {
         score++;
     }
     else {
@@ -164,10 +164,7 @@ ans1.addEventListener('click', (e) => {
 
 // ANSWER TWO
 ans2.addEventListener('click', (e) => {
-    if (num == 2) {
-        score++;
-    }
-    if (num == 3){
+    if (num == 1) {
         score++;
     }
     else {
@@ -186,7 +183,8 @@ ans2.addEventListener('click', (e) => {
     scoreCount.innerHTML = 'Score: ' + score;
 
     num = 3;
-    // QUESTION THREE OF ANSWER TWO
+    // QUESTION THREE OF ANSWER ONE
+
     ans1.addEventListener('click', (e) => {
         question.innerHTML = 'Hg is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
@@ -194,7 +192,6 @@ ans2.addEventListener('click', (e) => {
         ans2.innerHTML = 'Mercury';
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
-
 
         num = 4;
         // QUESTION FOUR
@@ -236,7 +233,7 @@ ans2.addEventListener('click', (e) => {
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
 
-
+        
         num = 4;
         // QUESTION FOUR
         ans1.addEventListener('click', (e) => {
@@ -332,7 +329,8 @@ ans3.addEventListener('click', (e) => {
     scoreCount.innerHTML = 'Score: ' + score;
 
     num = 3;
-    // QUESTION THREE OF ANSWER THREE
+    // QUESTION THREE OF ANSWER ONE
+
     ans1.addEventListener('click', (e) => {
         question.innerHTML = 'Hg is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
@@ -340,7 +338,6 @@ ans3.addEventListener('click', (e) => {
         ans2.innerHTML = 'Mercury';
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
-
 
         num = 4;
         // QUESTION FOUR
@@ -382,7 +379,7 @@ ans3.addEventListener('click', (e) => {
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
 
-
+        
         num = 4;
         // QUESTION FOUR
         ans1.addEventListener('click', (e) => {
