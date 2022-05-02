@@ -17,7 +17,7 @@ ans3.innerHTML = 'Manila';
 scoreCount.innerHTML = 'Score: ' + score;
 
 // QUESTION ONE
-while(num == 1){
+if(num == 1){
     // ANSWER ONE
     ans1.addEventListener('click', (e) => {
         score++;
@@ -50,7 +50,7 @@ while(num == 1){
 };
 
 // QUESTION TWO
-while(num == 2){
+if(num == 2){
 
     // ANSWER ONE
     ans1.addEventListener('click', (e) => {
