@@ -18,33 +18,33 @@ scoreCount.innerHTML = 'Score: ' + score;
 
 // ANSWER ONE
 ans1.addEventListener('click', (e) => {
-    num++;
-    qNumber.innerHTML = 'Question ' + num;
-
     if(num == 1){
         score++
         score.innerHTML = 'Score: ' + score;
     };
+
+    num++;
+    qNumber.innerHTML = 'Question ' + num;
 });
 
 // ANSWER TWO
 ans2.addEventListener('click', (e) => {
-    num++;
-    qNumber.innerHTML = 'Question ' + num;
-
     if(num == 1){
         score = score;
         score.innerHTML = 'Score: ' + score;
     };
+
+    num++;
+    qNumber.innerHTML = 'Question ' + num;
 });
 
 // ANSWER THREE
 ans3.addEventListener('click', (e) => {
-    num++;
-    qNumber.innerHTML = 'Question ' + num;
-
     if(num == 1){
         score = score
         score.innerHTML = 'Score: ' + score;
     };
+
+    num++;
+    qNumber.innerHTML = 'Question ' + num;
 });
