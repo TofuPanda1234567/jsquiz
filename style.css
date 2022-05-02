@@ -37,7 +37,7 @@
     background: #008b8b;
     color: white;
     font-size: 30px;
-    width: 50vw;
+    max-width: max-content;
     height: 10vh;
     border-radius: 10px;
 }
@@ -45,12 +45,12 @@
     position: absolute;
     margin-left: 25%;
     margin-bottom: 30px;
-    margin-top: 15%;
+    margin-top: 12%;
     text-align: center;
     background: #008b8b;
     color: white;
     font-size: 30px;
-    width: 50vw;
+    max-width: max-content;
     height: 10vh;
     border-radius: 10px;
 }
@@ -58,12 +58,12 @@
     position: absolute;
     margin-left: 25%;
     margin-bottom: 30px;
-    margin-top: 25%;
+    margin-top: 19%;
     text-align: center;
     background: #008b8b;
     color: white;
     font-size: 30px;
-    width: 50vw;
+    max-width: max-content;
     height: 10vh;
     border-radius: 10px;
 }
