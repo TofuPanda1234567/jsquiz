@@ -37,7 +37,7 @@ ans1.addEventListener('click', (e) => {
             score = score;
             scoreCount.innerHTML = 'Score: ' + score;
 
-            num = 2;
+            num = 3;
             qNumber.innerHTML = 'Question ' + num;
 
             question.innerHTML = 'Question 3?';
@@ -53,7 +53,7 @@ ans1.addEventListener('click', (e) => {
             score++;
             scoreCount.innerHTML = 'Score: ' + score;
 
-            num = 2;
+            num = 3;
             qNumber.innerHTML = 'Question ' + num;
 
             question.innerHTML = 'Question 3?';
@@ -68,7 +68,7 @@ ans1.addEventListener('click', (e) => {
             score = score;
             scoreCount.innerHTML = 'Score: ' + score;
 
-            num = 2;
+            num = 3;
             qNumber.innerHTML = 'Question ' + num;
 
             question.innerHTML = 'Question 3?';
@@ -104,7 +104,7 @@ ans2.addEventListener('click', (e) => {
             score = score;
             scoreCount.innerHTML = 'Score: ' + score;
 
-            num = 2;
+            num = 3;
             qNumber.innerHTML = 'Question ' + num;
 
             question.innerHTML = 'Question 3?';
@@ -120,7 +120,7 @@ ans2.addEventListener('click', (e) => {
             score++;
             scoreCount.innerHTML = 'Score: ' + score;
 
-            num = 2;
+            num = 3;
             qNumber.innerHTML = 'Question ' + num;
 
             question.innerHTML = 'Question 3?';
@@ -135,7 +135,7 @@ ans2.addEventListener('click', (e) => {
             score = score;
             scoreCount.innerHTML = 'Score: ' + score;
 
-            num = 2;
+            num = 3;
             qNumber.innerHTML = 'Question ' + num;
 
             question.innerHTML = 'Question 3?';
@@ -170,7 +170,7 @@ ans3.addEventListener('click', (e) => {
             score = score;
             scoreCount.innerHTML = 'Score: ' + score;
 
-            num = 2;
+            num = 3;
             qNumber.innerHTML = 'Question ' + num;
 
             question.innerHTML = 'Question 3?';
@@ -186,7 +186,7 @@ ans3.addEventListener('click', (e) => {
             score++;
             scoreCount.innerHTML = 'Score: ' + score;
 
-            num = 2;
+            num = 3;
             qNumber.innerHTML = 'Question ' + num;
 
             question.innerHTML = 'Question 3?';
@@ -201,7 +201,7 @@ ans3.addEventListener('click', (e) => {
             score = score;
             scoreCount.innerHTML = 'Score: ' + score;
 
-            num = 2;
+            num = 3;
             qNumber.innerHTML = 'Question ' + num;
 
             question.innerHTML = 'Question 3?';
