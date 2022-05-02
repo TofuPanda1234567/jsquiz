@@ -17,7 +17,7 @@ ans3.innerHTML = 'Manila';
 scoreCount.innerHTML = 'Score: ' + score;
 
 // QUESTION ONE
-if(num == 1){
+while(num == 1){
     // ANSWER ONE
     ans1.addEventListener('click', (e) => {
         score++;
@@ -37,20 +37,20 @@ if(num == 1){
         scoreCount.innerHTML = 'Score: ' + score;
 
     });
-    
+
     num++;
     qNumber.innerHTML = 'Question ' + num;
-};
-
-// QUESTION TWO
-if(num == 2){
-
+    
     question.innerHTML = 'How many hearts does an octopus have?';
     qNumber.innerHTML = 'Question ' + num;
     ans1.innerHTML = '1';
     ans2.innerHTML = '3';
     ans3.innerHTML = '7';
     scoreCount.innerHTML = 'Score: ' + score;
+};
+
+// QUESTION TWO
+while(num == 2){
 
     // ANSWER ONE
     ans1.addEventListener('click', (e) => {
