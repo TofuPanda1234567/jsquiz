@@ -16,68 +16,62 @@ ans2.innerHTML = 'New York City';
 ans3.innerHTML = 'Manila';
 scoreCount.innerHTML = 'Score: ' + score;
 
-// QUESTION ONE
-if(num = 1){
-    // ANSWER ONE
-    ans1.addEventListener('click', (e) => {
-        score++;
-        scoreCount.innerHTML = 'Score: ' + score;
 
-        num = 2;
-    });
-
-    // ANSWER TWO
-    ans2.addEventListener('click', (e) => {
-        score = score;
-        scoreCount.innerHTML = 'Score: ' + score;
-
-        num = 2;
-    });
-
-    // ANSWER THREE
-    ans3.addEventListener('click', (e) => {
-        score = score
-        scoreCount.innerHTML = 'Score: ' + score;
-
-        num = 2;
-    });
-
-    qNumber.innerHTML = 'Question ' + num;
-};
-
-// QUESTION TWO
-if(num = 2){
-
-    question.innerHTML = 'How many hearts does an octopus have?';
-    qNumber.innerHTML = 'Question ' + num;
-    ans1.innerHTML = '1';
-    ans2.innerHTML = '3';
-    ans3.innerHTML = '7';
+// ANSWER ONE
+ans1.addEventListener('click', (e) => {
+    score++;
     scoreCount.innerHTML = 'Score: ' + score;
 
-    // ANSWER ONE
-    ans1.addEventListener('click', (e) => {
-        score = score;
-        scoreCount.innerHTML = 'Score: ' + score;
+    num = 2;
+});
 
-        num = 3;
-    });
+// ANSWER TWO
+ans2.addEventListener('click', (e) => {
+    score = score;
+    scoreCount.innerHTML = 'Score: ' + score;
 
-    // ANSWER TWO
-    ans2.addEventListener('click', (e) => {
-        score++;
-        scoreCount.innerHTML = 'Score: ' + score;
+    num = 2;
+});
 
-        num = 3;
-    });
+// ANSWER THREE
+ans3.addEventListener('click', (e) => {
+    score = score
+    scoreCount.innerHTML = 'Score: ' + score;
 
-    // ANSWER THREE
-    ans3.addEventListener('click', (e) => {
-        score = score
-        scoreCount.innerHTML = 'Score: ' + score;
+    num = 2;
+});
 
-        num = 3;
-    });
+qNumber.innerHTML = 'Question ' + num;
 
-    qNumber.innerHTML = 'Question ' + num;
-};
+question.innerHTML = 'How many hearts does an octopus have?';
+qNumber.innerHTML = 'Question ' + num;
+ans1.innerHTML = '1';
+ans2.innerHTML = '3';
+ans3.innerHTML = '7';
+scoreCount.innerHTML = 'Score: ' + score;
+
+// ANSWER ONE
+ans1.addEventListener('click', (e) => {
+    score = score;
+    scoreCount.innerHTML = 'Score: ' + score;
+
+    num = 3;
+});
+
+// ANSWER TWO
+ans2.addEventListener('click', (e) => {
+    score++;
+    scoreCount.innerHTML = 'Score: ' + score;
+
+    num = 3;
+});
+
+// ANSWER THREE
+ans3.addEventListener('click', (e) => {
+    score = score
+    scoreCount.innerHTML = 'Score: ' + score;
+
+    num = 3;
+});
+
+qNumber.innerHTML = 'Question ' + num;
