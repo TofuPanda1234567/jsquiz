@@ -53,7 +53,6 @@ ans1.addEventListener('click', (e) => {
 
 
     ans2.addEventListener('click', (e) => {
-        score++; 
         question.innerHTML = 'Hg is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
         ans1.innerHTML = 'Hydrogen';
@@ -63,7 +62,6 @@ ans1.addEventListener('click', (e) => {
     });
 
     ans3.addEventListener('click', (e) => {
-        score = score;
         question.innerHTML = 'Hg is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
         ans1.innerHTML = 'Hydrogen';
@@ -76,7 +74,7 @@ ans1.addEventListener('click', (e) => {
 
 // ANSWER TWO
 ans2.addEventListener('click', (e) => {
-    if(num == 2){
+    if(num == 2 || num == 3){
         score++;
     }
     else {
@@ -97,7 +95,6 @@ ans2.addEventListener('click', (e) => {
     num = 3;
     // QUESTION THREE OF ANSWER TWO
     ans1.addEventListener('click', (e) => {
-        score = score;
 
         question.innerHTML = 'Hg is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
@@ -109,7 +106,6 @@ ans2.addEventListener('click', (e) => {
 
 
     ans2.addEventListener('click', (e) => {
-        score++;
 
         question.innerHTML = 'Hg is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
@@ -120,7 +116,6 @@ ans2.addEventListener('click', (e) => {
     });
 
     ans3.addEventListener('click', (e) => {
-        score = score; 
         question.innerHTML = 'Hg is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
         ans1.innerHTML = 'Hydrogen';
@@ -180,7 +175,7 @@ ans3.addEventListener('click', (e) => {
 
     ans3.addEventListener('click', (e) => {
         score = score;
-        
+
         question.innerHTML = 'Hg is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
         ans1.innerHTML = 'Hydrogen';
