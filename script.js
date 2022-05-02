@@ -17,7 +17,7 @@ ans3.innerHTML = 'Manila';
 scoreCount.innerHTML = 'Score: ' + score;
 
 // QUESTION ONE
-if(num == 1){
+if(num = 1){
     // ANSWER ONE
     ans1.addEventListener('click', (e) => {
         score++;
@@ -46,7 +46,7 @@ if(num == 1){
 };
 
 // QUESTION TWO
-if(num == 2){
+if(num = 2){
 
     question.innerHTML = 'How many hearts does an octopus have?';
     qNumber.innerHTML = 'Question ' + num;
