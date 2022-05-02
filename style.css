@@ -18,6 +18,10 @@
 .questionNumber {
     background: inherit;
 }
+.score {
+    background: inherit;
+    text-align: left;
+}
 .question {
     color: white;
     font-size: 50px;
@@ -37,7 +41,7 @@
     background: #008b8b;
     color: white;
     font-size: 30px;
-    max-width: max-content;
+    width: 50vw;
     height: 10vh;
     border-radius: 10px;
 }
@@ -50,7 +54,7 @@
     background: #008b8b;
     color: white;
     font-size: 30px;
-    max-width: max-content;
+    width: 50vw;
     height: 10vh;
     border-radius: 10px;
 }
@@ -63,7 +67,7 @@
     background: #008b8b;
     color: white;
     font-size: 30px;
-    max-width: max-content;
+    width: 50vw;
     height: 10vh;
     border-radius: 10px;
 }
