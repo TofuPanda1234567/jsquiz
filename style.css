@@ -19,6 +19,7 @@
     background: inherit;
 }
 .score {
+    margin-top: -4%;
     background: inherit;
     text-align: right;
 }

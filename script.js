@@ -25,6 +25,17 @@ ans1.addEventListener('click', (e) => {
 
     num++;
     qNumber.innerHTML = 'Question ' + num;
+    
+    if(num == 2){
+        question.innerHTML = 'How many hearts does an Octopus have?';
+        qNumber.innerHTML = 'Question ' + num;
+        ans1.innerHTML = '1';
+        ans2.innerHTML = '3';
+        ans3.innerHTML = '7';
+
+        score = score;
+        scoreCount.innerHTML = 'Score: ' + score;
+    }
 });
 
 // ANSWER TWO
@@ -36,6 +47,17 @@ ans2.addEventListener('click', (e) => {
 
     num++;
     qNumber.innerHTML = 'Question ' + num;
+
+    if(num == 2){
+        question.innerHTML = 'How many hearts does an Octopus have?';
+        qNumber.innerHTML = 'Question ' + num;
+        ans1.innerHTML = '1';
+        ans2.innerHTML = '3';
+        ans3.innerHTML = '7';
+
+        score++;
+        scoreCount.innerHTML = 'Score: ' + score;
+    }
 });
 
 // ANSWER THREE
@@ -47,4 +69,15 @@ ans3.addEventListener('click', (e) => {
 
     num++;
     qNumber.innerHTML = 'Question ' + num;
+
+    if(num == 2){
+        question.innerHTML = 'How many hearts does an Octopus have?';
+        qNumber.innerHTML = 'Question ' + num;
+        ans1.innerHTML = '1';
+        ans2.innerHTML = '3';
+        ans3.innerHTML = '7';
+
+        score = score;
+        scoreCount.innerHTML = 'Score: ' + score;
+    }
 });
