@@ -23,18 +23,12 @@ if(num == 1){
         score++;
         scoreCount.innerHTML = 'Score: ' + score;
 
-        num++;
-        qNumber.innerHTML = 'Question ' + num;
-
     });
 
     // ANSWER TWO
     ans2.addEventListener('click', (e) => {
         score = score;
         scoreCount.innerHTML = 'Score: ' + score;
-
-        num++;
-        qNumber.innerHTML = 'Question ' + num;
     });
 
     // ANSWER THREE
@@ -42,9 +36,10 @@ if(num == 1){
         score = score
         scoreCount.innerHTML = 'Score: ' + score;
 
-        num++;
-        qNumber.innerHTML = 'Question ' + num;
     });
+    
+    num++;
+    qNumber.innerHTML = 'Question ' + num;
 };
 
 // QUESTION TWO
