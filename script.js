@@ -49,6 +49,7 @@ ans1.addEventListener('click', (e) => {
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
 
+        num = 4;
         // QUESTION FOUR
         ans1.addEventListener('click', (e) => {
 
@@ -89,6 +90,7 @@ ans1.addEventListener('click', (e) => {
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
 
+        num = 4;
         // QUESTION FOUR
         ans1.addEventListener('click', (e) => {
 
@@ -128,6 +130,7 @@ ans1.addEventListener('click', (e) => {
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
 
+        num = 4;
         // QUESTION FOUR
         ans1.addEventListener('click', (e) => {
 
@@ -192,6 +195,7 @@ ans2.addEventListener('click', (e) => {
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
 
+        num = 4;
         // QUESTION FOUR
         ans1.addEventListener('click', (e) => {
 
@@ -233,6 +237,7 @@ ans2.addEventListener('click', (e) => {
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
 
+        num = 4;
         // QUESTION FOUR
         ans1.addEventListener('click', (e) => {
 
@@ -272,6 +277,7 @@ ans2.addEventListener('click', (e) => {
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
 
+        num = 4;
         // QUESTION FOUR
         ans1.addEventListener('click', (e) => {
 
@@ -337,6 +343,7 @@ ans3.addEventListener('click', (e) => {
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
 
+        num = 4;
         // QUESTION FOUR
         ans1.addEventListener('click', (e) => {
 
@@ -347,7 +354,6 @@ ans3.addEventListener('click', (e) => {
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
         });
-
 
         ans2.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
@@ -378,6 +384,7 @@ ans3.addEventListener('click', (e) => {
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
 
+        num = 4;
         // QUESTION FOUR
         ans1.addEventListener('click', (e) => {
 
@@ -418,6 +425,7 @@ ans3.addEventListener('click', (e) => {
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
 
+        num = 4;
         // QUESTION FOUR
         ans1.addEventListener('click', (e) => {
 
