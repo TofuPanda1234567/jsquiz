@@ -42,7 +42,7 @@ ans1.addEventListener('click', (e) => {
 
     ans1.addEventListener('click', (e) => {
 
-        question.innerHTML = 'Hg is the chemical symbol of which element?';
+        question.innerHTML = 'Pt is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
         ans1.innerHTML = 'Hydrogen';
         ans2.innerHTML = 'Mercury';
@@ -83,7 +83,7 @@ ans1.addEventListener('click', (e) => {
 
 
     ans2.addEventListener('click', (e) => {
-        question.innerHTML = 'Hg is the chemical symbol of which element?';
+        question.innerHTML = 'Pt is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
         ans1.innerHTML = 'Hydrogen';
         ans2.innerHTML = 'Mercury';
@@ -123,7 +123,7 @@ ans1.addEventListener('click', (e) => {
     });
 
     ans3.addEventListener('click', (e) => {
-        question.innerHTML = 'Hg is the chemical symbol of which element?';
+        question.innerHTML = 'Pt is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
         ans1.innerHTML = 'Hydrogen';
         ans2.innerHTML = 'Mercury';
@@ -164,6 +164,16 @@ ans1.addEventListener('click', (e) => {
 });
 
 
+
+
+
+
+
+
+
+
+
+
 // ANSWER TWO
 ans2.addEventListener('click', (e) => {
     if (num == 2 || num == 3) {
@@ -188,7 +198,7 @@ ans2.addEventListener('click', (e) => {
     // QUESTION THREE OF ANSWER TWO
     ans1.addEventListener('click', (e) => {
 
-        question.innerHTML = 'Hg is the chemical symbol of which element?';
+        question.innerHTML = 'Pt is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
         ans1.innerHTML = 'Hydrogen';
         ans2.innerHTML = 'Mercury';
@@ -230,7 +240,7 @@ ans2.addEventListener('click', (e) => {
 
     ans2.addEventListener('click', (e) => {
 
-        question.innerHTML = 'Hg is the chemical symbol of which element?';
+        question.innerHTML = 'Pt is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
         ans1.innerHTML = 'Hydrogen';
         ans2.innerHTML = 'Mercury';
@@ -270,7 +280,7 @@ ans2.addEventListener('click', (e) => {
     });
 
     ans3.addEventListener('click', (e) => {
-        question.innerHTML = 'Hg is the chemical symbol of which element?';
+        question.innerHTML = 'Pt is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
         ans1.innerHTML = 'Hydrogen';
         ans2.innerHTML = 'Mercury';
@@ -336,7 +346,7 @@ ans3.addEventListener('click', (e) => {
     // QUESTION THREE OF ANSWER THREE
     ans1.addEventListener('click', (e) => {
 
-        question.innerHTML = 'Hg is the chemical symbol of which element?';
+        question.innerHTML = 'Pt is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
         ans1.innerHTML = 'Hydrogen';
         ans2.innerHTML = 'Mercury';
@@ -377,7 +387,7 @@ ans3.addEventListener('click', (e) => {
 
     ans2.addEventListener('click', (e) => {
 
-        question.innerHTML = 'Hg is the chemical symbol of which element?';
+        question.innerHTML = 'Pt is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
         ans1.innerHTML = 'Hydrogen';
         ans2.innerHTML = 'Mercury';
@@ -418,7 +428,7 @@ ans3.addEventListener('click', (e) => {
     });
 
     ans3.addEventListener('click', (e) => {
-        question.innerHTML = 'Hg is the chemical symbol of which element?';
+        question.innerHTML = 'Pt is the chemical symbol of which element?';
         qNumber.innerHTML = 'Question ' + num;
         ans1.innerHTML = 'Hydrogen';
         ans2.innerHTML = 'Mercury';
