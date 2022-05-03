@@ -70,6 +70,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -80,6 +81,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -89,6 +91,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
 
@@ -111,6 +114,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -121,6 +125,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -130,6 +135,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
 
@@ -152,6 +158,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -162,6 +169,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -171,6 +179,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
     });
@@ -205,6 +214,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -215,6 +225,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -224,6 +235,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
 
@@ -246,6 +258,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -256,6 +269,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -265,6 +279,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
 
@@ -287,6 +302,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -297,6 +313,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -306,6 +323,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
     });
@@ -339,6 +357,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -349,6 +368,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -358,6 +378,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
 
@@ -380,6 +401,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -390,6 +412,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -399,6 +422,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
 
@@ -421,6 +445,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -431,6 +456,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -440,6 +466,7 @@ ans1.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
     });
@@ -505,6 +532,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -515,6 +543,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -524,6 +553,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
 
@@ -546,6 +576,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -556,6 +587,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -565,6 +597,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
 
@@ -587,6 +620,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -597,6 +631,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -606,6 +641,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
     });
@@ -641,6 +677,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -651,6 +688,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -660,6 +698,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
 
@@ -682,6 +721,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -692,6 +732,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -701,6 +742,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
 
@@ -723,6 +765,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -733,6 +776,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -742,6 +786,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
     });
@@ -775,6 +820,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -785,6 +831,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -794,6 +841,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
 
@@ -816,6 +864,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -826,6 +875,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -835,6 +885,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
 
@@ -846,6 +897,7 @@ ans2.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
+            
 
             num = 5;
             //QUESTION FIVE
@@ -857,6 +909,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -867,6 +920,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -876,6 +930,7 @@ ans2.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
     });
@@ -935,6 +990,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -945,6 +1001,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -954,6 +1011,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
 
@@ -976,6 +1034,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -986,6 +1045,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -995,6 +1055,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
 
@@ -1017,6 +1078,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -1027,6 +1089,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -1036,6 +1099,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
     });
@@ -1071,6 +1135,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -1081,6 +1146,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -1090,6 +1156,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
 
@@ -1121,6 +1188,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -1131,6 +1199,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -1140,6 +1209,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
 
@@ -1174,6 +1244,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -1184,6 +1255,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -1193,6 +1265,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
 
@@ -1215,6 +1288,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -1225,6 +1299,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -1234,6 +1309,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
 
@@ -1256,6 +1332,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
     
@@ -1266,6 +1343,7 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
     
             ans3.addEventListener('click', (e) => {
@@ -1275,7 +1353,15 @@ ans3.addEventListener('click', (e) => {
                 ans2.innerHTML = '5,000';
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
+                num = 6;
             });
         });
     });
 });
+
+if(num <= 6){
+    question.innerHTML = 'Congratulation! You\'re score was ' + score;
+    document.querySelector('.answer1').style.display = 'none';
+    document.querySelector('.answer2').style.display = 'none';
+    document.querySelector('.answer3').style.display = 'none';
+}
