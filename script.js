@@ -19,10 +19,10 @@ scoreCount.innerHTML = 'Score: ' + score;
 
 // ANSWER ONE
 ans1.addEventListener('click', (e) => {
-    if(num == 1){
+    if (num == 1) {
         score++;
     }
-    else{
+    else {
         score = score;
     }
     scoreCount.innerHTML = 'Score: ' + score;
@@ -48,6 +48,36 @@ ans1.addEventListener('click', (e) => {
         ans2.innerHTML = 'Mercury';
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
+
+        // QUESTION FOUR
+        ans1.addEventListener('click', (e) => {
+
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
+
+
+        ans2.addEventListener('click', (e) => {
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
+
+        ans3.addEventListener('click', (e) => {
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
     });
 
 
@@ -58,6 +88,36 @@ ans1.addEventListener('click', (e) => {
         ans2.innerHTML = 'Mercury';
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
+
+        // QUESTION FOUR
+        ans1.addEventListener('click', (e) => {
+
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
+
+
+        ans2.addEventListener('click', (e) => {
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
+
+        ans3.addEventListener('click', (e) => {
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
     });
 
     ans3.addEventListener('click', (e) => {
@@ -67,13 +127,43 @@ ans1.addEventListener('click', (e) => {
         ans2.innerHTML = 'Mercury';
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
+
+        // QUESTION FOUR
+        ans1.addEventListener('click', (e) => {
+
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
+
+
+        ans2.addEventListener('click', (e) => {
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
+
+        ans3.addEventListener('click', (e) => {
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
     });
 });
 
 
 // ANSWER TWO
 ans2.addEventListener('click', (e) => {
-    if(num == 2 || num == 3){
+    if (num == 2 || num == 3) {
         score++;
     }
     else {
@@ -101,6 +191,36 @@ ans2.addEventListener('click', (e) => {
         ans2.innerHTML = 'Mercury';
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
+
+        // QUESTION FOUR
+        ans1.addEventListener('click', (e) => {
+
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
+
+
+        ans2.addEventListener('click', (e) => {
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
+
+        ans3.addEventListener('click', (e) => {
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
     });
 
 
@@ -112,6 +232,36 @@ ans2.addEventListener('click', (e) => {
         ans2.innerHTML = 'Mercury';
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
+
+        // QUESTION FOUR
+        ans1.addEventListener('click', (e) => {
+
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
+
+
+        ans2.addEventListener('click', (e) => {
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
+
+        ans3.addEventListener('click', (e) => {
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
     });
 
     ans3.addEventListener('click', (e) => {
@@ -121,6 +271,36 @@ ans2.addEventListener('click', (e) => {
         ans2.innerHTML = 'Mercury';
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
+
+        // QUESTION FOUR
+        ans1.addEventListener('click', (e) => {
+
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
+
+
+        ans2.addEventListener('click', (e) => {
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
+
+        ans3.addEventListener('click', (e) => {
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
     });
 });
 
@@ -156,6 +336,36 @@ ans3.addEventListener('click', (e) => {
         ans2.innerHTML = 'Mercury';
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
+
+        // QUESTION FOUR
+        ans1.addEventListener('click', (e) => {
+
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
+
+
+        ans2.addEventListener('click', (e) => {
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
+
+        ans3.addEventListener('click', (e) => {
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
     });
 
 
@@ -168,6 +378,36 @@ ans3.addEventListener('click', (e) => {
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
 
+        // QUESTION FOUR
+        ans1.addEventListener('click', (e) => {
+
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
+
+
+        ans2.addEventListener('click', (e) => {
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
+
+        ans3.addEventListener('click', (e) => {
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
+
     });
 
     ans3.addEventListener('click', (e) => {
@@ -177,5 +417,35 @@ ans3.addEventListener('click', (e) => {
         ans2.innerHTML = 'Mercury';
         ans3.innerHTML = 'Platinum';
         scoreCount.innerHTML = 'Score: ' + score;
+
+        // QUESTION FOUR
+        ans1.addEventListener('click', (e) => {
+
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
+
+
+        ans2.addEventListener('click', (e) => {
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
+
+        ans3.addEventListener('click', (e) => {
+            question.innerHTML = 'What is the capital city of Spain?';
+            qNumber.innerHTML = 'Question ' + num;
+            ans1.innerHTML = 'Ulaanbaatar';
+            ans2.innerHTML = 'Shanghai';
+            ans3.innerHTML = 'Madrid';
+            scoreCount.innerHTML = 'Score: ' + score;
+        });
     });
 });
