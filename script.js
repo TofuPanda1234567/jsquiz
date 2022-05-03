@@ -19,7 +19,7 @@ scoreCount.innerHTML = 'Score: ' + score;
 
 // ANSWER ONE
 ans1.addEventListener('click', (e) => {
-    if (num == 1) {
+    if (num == 1 || num == 5) {
         score++;
     }
     else {
@@ -59,6 +59,37 @@ ans1.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
 
 
@@ -69,6 +100,37 @@ ans1.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
 
         ans3.addEventListener('click', (e) => {
@@ -78,6 +140,37 @@ ans1.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
     });
 
@@ -100,6 +193,37 @@ ans1.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
 
 
@@ -110,6 +234,37 @@ ans1.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
 
         ans3.addEventListener('click', (e) => {
@@ -119,6 +274,37 @@ ans1.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
     });
 
@@ -140,6 +326,37 @@ ans1.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
 
 
@@ -150,6 +367,37 @@ ans1.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
 
         ans3.addEventListener('click', (e) => {
@@ -159,12 +407,40 @@ ans1.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
     });
 });
-
-
-
 
 
 
@@ -215,6 +491,37 @@ ans2.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
 
 
@@ -225,6 +532,37 @@ ans2.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
 
         ans3.addEventListener('click', (e) => {
@@ -234,6 +572,37 @@ ans2.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
     });
 
@@ -257,6 +626,37 @@ ans2.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
 
 
@@ -267,6 +667,37 @@ ans2.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
 
         ans3.addEventListener('click', (e) => {
@@ -276,6 +707,37 @@ ans2.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
     });
 
@@ -297,6 +759,37 @@ ans2.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
 
 
@@ -307,6 +800,37 @@ ans2.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
 
         ans3.addEventListener('click', (e) => {
@@ -316,6 +840,37 @@ ans2.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
     });
 });
@@ -363,6 +918,37 @@ ans3.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
 
         ans2.addEventListener('click', (e) => {
@@ -372,6 +958,37 @@ ans3.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
 
         ans3.addEventListener('click', (e) => {
@@ -381,6 +998,37 @@ ans3.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
     });
 
@@ -404,6 +1052,37 @@ ans3.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
 
 
@@ -423,6 +1102,37 @@ ans3.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
 
     });
@@ -445,6 +1155,37 @@ ans3.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
 
 
@@ -455,6 +1196,37 @@ ans3.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
 
         ans3.addEventListener('click', (e) => {
@@ -464,6 +1236,37 @@ ans3.addEventListener('click', (e) => {
             ans2.innerHTML = 'Shanghai';
             ans3.innerHTML = 'Madrid';
             scoreCount.innerHTML = 'Score: ' + score;
+
+            num = 5;
+            //QUESTION FIVE
+            ans1.addEventListener('click', (e) => {
+
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+    
+            ans2.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
+    
+            ans3.addEventListener('click', (e) => {
+                question.innerHTML = 'About how many taste buds does the average human tongue have?';
+                qNumber.innerHTML = 'Question ' + num;
+                ans1.innerHTML = '10,000';
+                ans2.innerHTML = '5,000';
+                ans3.innerHTML = '100,000';
+                scoreCount.innerHTML = 'Score: ' + score;
+            });
         });
     });
 });
