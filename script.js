@@ -55,9 +55,9 @@ ans1.addEventListener('click', (e) => {
 
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -96,9 +96,9 @@ ans1.addEventListener('click', (e) => {
         ans2.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -137,9 +137,9 @@ ans1.addEventListener('click', (e) => {
         ans3.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -190,9 +190,9 @@ ans1.addEventListener('click', (e) => {
 
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -231,9 +231,9 @@ ans1.addEventListener('click', (e) => {
         ans2.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -272,9 +272,9 @@ ans1.addEventListener('click', (e) => {
         ans3.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -324,9 +324,9 @@ ans1.addEventListener('click', (e) => {
 
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -365,9 +365,9 @@ ans1.addEventListener('click', (e) => {
         ans2.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -406,9 +406,9 @@ ans1.addEventListener('click', (e) => {
         ans3.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -490,9 +490,9 @@ ans2.addEventListener('click', (e) => {
 
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -531,9 +531,9 @@ ans2.addEventListener('click', (e) => {
         ans2.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -572,9 +572,9 @@ ans2.addEventListener('click', (e) => {
         ans3.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -626,9 +626,9 @@ ans2.addEventListener('click', (e) => {
 
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -667,9 +667,9 @@ ans2.addEventListener('click', (e) => {
         ans2.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -708,9 +708,9 @@ ans2.addEventListener('click', (e) => {
         ans3.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -760,9 +760,9 @@ ans2.addEventListener('click', (e) => {
 
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -801,9 +801,9 @@ ans2.addEventListener('click', (e) => {
         ans2.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -842,9 +842,9 @@ ans2.addEventListener('click', (e) => {
         ans3.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -920,9 +920,9 @@ ans3.addEventListener('click', (e) => {
 
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -961,9 +961,9 @@ ans3.addEventListener('click', (e) => {
         ans2.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -1002,9 +1002,9 @@ ans3.addEventListener('click', (e) => {
         ans3.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -1056,9 +1056,9 @@ ans3.addEventListener('click', (e) => {
 
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -1097,18 +1097,18 @@ ans3.addEventListener('click', (e) => {
         ans2.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
         });
 
         ans3.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -1159,9 +1159,9 @@ ans3.addEventListener('click', (e) => {
 
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -1200,9 +1200,9 @@ ans3.addEventListener('click', (e) => {
         ans2.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
@@ -1241,9 +1241,9 @@ ans3.addEventListener('click', (e) => {
         ans3.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
-            ans1.innerHTML = 'Ulaanbaatar';
+            ans1.innerHTML = 'Madrid';
             ans2.innerHTML = 'Shanghai';
-            ans3.innerHTML = 'Madrid';
+            ans3.innerHTML = 'Ulaanbaatar';
             scoreCount.innerHTML = 'Score: ' + score;
 
             num = 5;
