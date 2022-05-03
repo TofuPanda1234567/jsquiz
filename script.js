@@ -92,7 +92,7 @@ ans1.addEventListener('click', (e) => {
             });
         });
 
-
+        num = 4;
         ans2.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
@@ -133,6 +133,7 @@ ans1.addEventListener('click', (e) => {
             });
         });
 
+        num = 4;
         ans3.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
@@ -226,7 +227,7 @@ ans1.addEventListener('click', (e) => {
             });
         });
 
-
+        num = 4;
         ans2.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
@@ -267,6 +268,7 @@ ans1.addEventListener('click', (e) => {
             });
         });
 
+        num = 4;
         ans3.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
@@ -359,7 +361,7 @@ ans1.addEventListener('click', (e) => {
             });
         });
 
-
+        num = 4;
         ans2.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
@@ -400,6 +402,7 @@ ans1.addEventListener('click', (e) => {
             });
         });
 
+        num = 4;
         ans3.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
@@ -524,7 +527,7 @@ ans2.addEventListener('click', (e) => {
             });
         });
 
-
+        num = 4;
         ans2.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
@@ -565,6 +568,7 @@ ans2.addEventListener('click', (e) => {
             });
         });
 
+        num = 4;
         ans3.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
@@ -659,7 +663,7 @@ ans2.addEventListener('click', (e) => {
             });
         });
 
-
+        num = 4;
         ans2.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
@@ -700,6 +704,7 @@ ans2.addEventListener('click', (e) => {
             });
         });
 
+        num = 4;
         ans3.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
@@ -792,7 +797,7 @@ ans2.addEventListener('click', (e) => {
             });
         });
 
-
+        num = 4;
         ans2.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
@@ -833,6 +838,7 @@ ans2.addEventListener('click', (e) => {
             });
         });
 
+        num = 4;
         ans3.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
@@ -951,6 +957,7 @@ ans3.addEventListener('click', (e) => {
             });
         });
 
+        num = 4;
         ans2.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
@@ -991,6 +998,7 @@ ans3.addEventListener('click', (e) => {
             });
         });
 
+        num = 4;
         ans3.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
@@ -1188,7 +1196,7 @@ ans3.addEventListener('click', (e) => {
             });
         });
 
-
+        num = 4;
         ans2.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
@@ -1229,6 +1237,7 @@ ans3.addEventListener('click', (e) => {
             });
         });
 
+        num = 4;
         ans3.addEventListener('click', (e) => {
             question.innerHTML = 'What is the capital city of Spain?';
             qNumber.innerHTML = 'Question ' + num;
