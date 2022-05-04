@@ -1359,7 +1359,7 @@ ans3.addEventListener('click', (e) => {
     });
 });
 
-if(num >= 6){
+while(num >= 6){
     question.innerHTML = 'Congratulations! Your score was ' + score;
     document.querySelector('.questionNumber').style.display = 'none';
     document.querySelector('.answer1').style.display = 'none';
