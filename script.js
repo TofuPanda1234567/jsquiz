@@ -1364,6 +1364,7 @@ submit.onclick = function(){
     if(score > 5){
         score = 5;
     }
+    scoreCount.innerHTML = 'Score: ' + score;
     question.innerHTML = 'Congratulations! Your score was ' + score;
     document.querySelector('.answer1').style.display = 'none';
     document.querySelector('.answer2').style.display = 'none';
