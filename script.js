@@ -7,6 +7,7 @@ let scoreCount = document.querySelector('.score');
 let num = 1;
 let score = 0;
 let question = document.querySelector('.question');
+let submit = document.querySelector('.submitButton');
 
 // LOAD HTML VALUES
 question.innerHTML = 'What is the most populated city in the world?';
@@ -1359,7 +1360,7 @@ ans3.addEventListener('click', (e) => {
     });
 });
 
-if(qNumber.innerHTML >= 6){
+submit.onclick = function(){
     question.innerHTML = 'Congratulations! Your score was ' + score;
     document.querySelector('.answer1').style.display = 'none';
     document.querySelector('.answer2').style.display = 'none';

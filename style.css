@@ -72,3 +72,18 @@
     height: 10vh;
     border-radius: 10px;
 }
+
+.submitButton {
+    position: absolute;
+    margin-left: 45%;
+    margin-bottom: 30px;
+    margin-top: 25%;
+    text-align: center;
+    background: #008b8b;
+    color: white;
+    font-size: 30px;
+    max-width: max-content;
+    padding: 15px;
+    height: 10vh;
+    border-radius: 10px;
+}
