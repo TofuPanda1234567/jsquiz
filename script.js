@@ -22,6 +22,7 @@ scoreCount.innerHTML = 'Score: ' + score;
 ans1.addEventListener('click', (e) => {
     if (num == 1 || num > 4) {
         score++;
+        this.onclick = null;
     }
     else {
         score = score;
