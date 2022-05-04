@@ -1365,4 +1365,4 @@ while(num >= 6){
     document.querySelector('.answer1').style.display = 'none';
     document.querySelector('.answer2').style.display = 'none';
     document.querySelector('.answer3').style.display = 'none';
-}
+};
