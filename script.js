@@ -1359,9 +1359,9 @@ ans3.addEventListener('click', (e) => {
     });
 });
 
-
-question.innerHTML = 'Congratulations! Your score was ' + score;
-document.querySelector('.questionNumber').style.display = 'none';
-document.querySelector('.answer1').style.display = 'none';
-document.querySelector('.answer2').style.display = 'none';
-document.querySelector('.answer3').style.display = 'none';
+if(qNumber.innerHTML >= 6){
+    question.innerHTML = 'Congratulations! Your score was ' + score;
+    document.querySelector('.answer1').style.display = 'none';
+    document.querySelector('.answer2').style.display = 'none';
+    document.querySelector('.answer3').style.display = 'none';
+};
