@@ -1269,7 +1269,7 @@ ans3.addEventListener('click', (e) => {
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
                 num = 6;
-                ans1.removeEventListener('click');
+                
             });
 
 
@@ -1314,7 +1314,6 @@ ans3.addEventListener('click', (e) => {
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
                 num = 6;
-                ans1.removeEventListener('click');
             });
 
 
@@ -1351,6 +1350,7 @@ ans3.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
+                score++
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -1358,7 +1358,6 @@ ans3.addEventListener('click', (e) => {
                 ans3.innerHTML = '100,000';
                 scoreCount.innerHTML = 'Score: ' + score;
                 num = 6;
-                ans1.removeEventListener('click');
             });
 
 
