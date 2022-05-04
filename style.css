@@ -37,7 +37,7 @@
     position: absolute;
     margin-left: 25%;
     margin-bottom: 30px;
-    margin-top: 5%;
+    margin-top: 3%;
     text-align: center;
     background: #008b8b;
     color: white;
@@ -50,7 +50,7 @@
     position: absolute;
     margin-left: 25%;
     margin-bottom: 30px;
-    margin-top: 12%;
+    margin-top: 10%;
     text-align: center;
     background: #008b8b;
     color: white;
@@ -63,7 +63,7 @@
     position: absolute;
     margin-left: 25%;
     margin-bottom: 30px;
-    margin-top: 19%;
+    margin-top: 17%;
     text-align: center;
     background: #008b8b;
     color: white;
@@ -75,11 +75,11 @@
 
 .submitButton {
     position: absolute;
-    margin-left: 45%;
+    margin-left: 40%;
     margin-bottom: 30px;
-    margin-top: 25%;
+    margin-top: 23%;
     text-align: center;
-    background: #008b8b;
+    background: grey;
     color: white;
     font-size: 30px;
     max-width: max-content;

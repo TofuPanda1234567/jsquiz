@@ -1326,7 +1326,7 @@ ans3.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
