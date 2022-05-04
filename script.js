@@ -1359,8 +1359,8 @@ ans3.addEventListener('click', (e) => {
     });
 });
 
-if(num <= 6){
-    question.innerHTML = 'Congratulation! You\'re score was ' + score;
+if(num == 6){
+    question.innerHTML = 'Congratulations! You\'re score was ' + score;
     document.querySelector('.answer1').style.display = 'none';
     document.querySelector('.answer2').style.display = 'none';
     document.querySelector('.answer3').style.display = 'none';
