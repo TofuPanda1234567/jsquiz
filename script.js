@@ -1360,6 +1360,11 @@ ans3.addEventListener('click', (e) => {
     });
 });
 
+
+if(score > 5){
+    score = 5;
+}
+
 submit.onclick = function(){
     if(score > 5){
         score = 5;
