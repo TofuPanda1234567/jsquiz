@@ -64,7 +64,7 @@ ans1.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -108,7 +108,7 @@ ans1.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -152,7 +152,7 @@ ans1.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -208,7 +208,7 @@ ans1.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -252,7 +252,7 @@ ans1.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -296,7 +296,7 @@ ans1.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -351,7 +351,7 @@ ans1.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -395,7 +395,7 @@ ans1.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -439,7 +439,7 @@ ans1.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -526,7 +526,7 @@ ans2.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -570,7 +570,7 @@ ans2.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -614,7 +614,7 @@ ans2.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -671,7 +671,7 @@ ans2.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -715,7 +715,7 @@ ans2.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -759,7 +759,7 @@ ans2.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -814,7 +814,7 @@ ans2.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -858,7 +858,7 @@ ans2.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -903,7 +903,7 @@ ans2.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -984,7 +984,7 @@ ans3.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -1028,7 +1028,7 @@ ans3.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -1072,7 +1072,7 @@ ans3.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -1129,7 +1129,7 @@ ans3.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -1182,7 +1182,7 @@ ans3.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -1238,7 +1238,7 @@ ans3.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -1282,7 +1282,7 @@ ans3.addEventListener('click', (e) => {
             num = 5;
             //QUESTION FIVE
             ans1.addEventListener('click', (e) => {
-
+                score++;
                 question.innerHTML = 'About how many taste buds does the average human tongue have?';
                 qNumber.innerHTML = 'Question ' + num;
                 ans1.innerHTML = '10,000';
@@ -1361,6 +1361,9 @@ ans3.addEventListener('click', (e) => {
 });
 
 submit.onclick = function(){
+    if(score > 5){
+        score = 5;
+    };
     question.innerHTML = 'Congratulations! Your score was ' + score;
     document.querySelector('.answer1').style.display = 'none';
     document.querySelector('.answer2').style.display = 'none';
